@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["iamteem@gmail.com"]
   spec.summary       = %q{This is a demo thing.}
   spec.description   = %q{This is a demo for the osom guys here.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/iamteem/fuzzy-tyrion"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
